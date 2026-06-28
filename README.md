@@ -7,8 +7,8 @@ A single-page, dependency-free web app that:
 2. Lays out a **god-level, immersion-first 6-month plan**, tuned for **Canadian Express Entry** (French = up to **+50 CRS points**).
 3. **Tracks progress** with checklists that persist in the browser (`localStorage`).
 
-**🔗 Live app:** _deploying — Vercel URL added on first deploy_
-**📦 Repo:** this repository
+**🔗 Live app:** https://sarah-french-mastery.vercel.app
+**📦 Repo:** https://github.com/munaw-ar/sarah-french-mastery
 
 ---
 

@@ -1,0 +1,15 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+*.log
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Dependencies (none required, but defensive)
+node_modules/
+
+# Vercel
+.vercel
